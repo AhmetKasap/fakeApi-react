@@ -1,0 +1,22 @@
+{
+    "words": [
+        {
+            "id": 1, "name": "Beef", "meaning": "Lorem, İpsum, Sit", "examples1": "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples2" : "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples3":"Lorem ipsum sit dolar => Lorem sit ipsum dolar."
+        },
+        {
+            "id": 2, "name": "Work", "meaning": "Lorem, İpsum, Sit", "examples1": "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples2" : "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples3":"Lorem ipsum sit dolar => Lorem sit ipsum dolar."
+        },
+        {
+            "id": 3, "name": "Try", "meaning": "Lorem, İpsum, Sit", "examples1": "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples2" : "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples3":"Lorem ipsum sit dolar => Lorem sit ipsum dolar."
+        },
+        {
+            "id": 4, "name": "About", "meaning": "Lorem, İpsum, Sit", "examples1": "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples2" : "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples3":"Lorem ipsum sit dolar => Lorem sit ipsum dolar."
+        },
+        {
+            "id": 5, "name": "Can", "meaning": "Lorem, İpsum, Sit", "examples1": "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples2" : "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples3":"Lorem ipsum sit dolar => Lorem sit ipsum dolar."
+        },
+        {
+            "id": 6, "name": "Else", "meaning": "Lorem, İpsum, Sit", "examples1": "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples2" : "Lorem ipsum sit dolar => Lorem sit ipsum dolar.", "examples3":"Lorem ipsum sit dolar => Lorem sit ipsum dolar."
+        }
+    ]
+}
